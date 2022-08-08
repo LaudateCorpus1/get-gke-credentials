@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "@kubernetes/client-node": "^0.15.1",
-    "@types/chai": "^4.2.21",
+    "@types/chai": "^4.3.3",
     "@types/chai-as-promised": "^7.1.4",
     "@types/lodash": "^4.14.173",
     "@types/mocha": "^9.0.0",
@@ -43,7 +43,7 @@
     "@typescript-eslint/eslint-plugin": "^4.31.0",
     "@typescript-eslint/parser": "^4.31.1",
     "@zeit/ncc": "^0.22.3",
-    "chai": "^4.3.4",
+    "chai": "^4.3.6",
     "chai-as-promised": "^7.1.1",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
